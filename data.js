@@ -409,7 +409,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "La Goletta virtual tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
